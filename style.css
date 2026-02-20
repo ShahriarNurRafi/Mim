@@ -1,0 +1,33 @@
+
+footer {
+    background: url(./ImageFolder/blacklight.jpg);
+    background-size: cover;
+    background-position: center;
+}
+body {
+    background: url(./ImageFolder/blacktree.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+h1 ,h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+p {
+    text-align: center;
+    font-weight: 550;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+article {
+    text-align: center;
+    font-weight: 900;
+    font-family: cursive;
+}
+#box1 {
+width:500px;
+padding-left: 410px;
+}
+#box2 {
+    text-align: center;
+}
