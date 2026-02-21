@@ -25,11 +25,13 @@ article {
     font-family: cursive;
 }
 #box1 {
-    padding-right: 200px;
+    width:500px;
+    padding-right: 400px;
 }
 #box2 {
     text-align: center;
 
 }
+
 
 
