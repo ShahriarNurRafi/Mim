@@ -24,8 +24,12 @@ article {
     font-weight: 900;
     font-family: cursive;
 }
+#box1 {
+    padding-right: 200px;
+}
 #box2 {
     text-align: center;
 
 }
+
 
